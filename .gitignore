@@ -1,0 +1,8 @@
+.vs/slnx.sqlite
+.vs/
+Welldium.Exploration.API/bin/
+Welldium.Exploration.API/obj/
+Welldium.Exploration.Domain/bin/
+Welldium.Exploration.Domain/obj/
+Welldium.Exploration.Storage/bin/
+Welldium.Exploration.Storage/obj/
